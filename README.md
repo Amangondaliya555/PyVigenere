@@ -12,4 +12,4 @@ Steps:
 
 4.select the option wheater you want to decrypt or encrypt.
 
-5.What else you want this tool to do? ;).
+5.What else you want this tool to do huh? ;).
